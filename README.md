@@ -17,8 +17,6 @@ Randomized loan/return simulation
 
 Clean separation of logic into manager classes
 
-Optional GUI support
-
 **How to run**
 
 Open in any Java IDE and run the main class.
